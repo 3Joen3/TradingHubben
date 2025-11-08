@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Core/Core.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="2b25face-ead4-41b5-8cde-3f45592e83ed" />
   <Project Path="Ui/Ui.csproj" Id="76273b58-bc9a-45fc-82cd-234f91d88192" />
 </Solution>
